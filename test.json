@@ -1,15 +1,17 @@
-{
+[
+    {
     "id": 1,
     "title": "headline",
     "content": "Some Headline"
-},
-{
-    "id": 2,
-    "title": "subline",
-    "content": "Some Other Line"
-},
-{
-    "id": 3,
-    "title": "content",
-    "content": "Lorem Ipsum and Mel Gibson"
-}
+    },
+    {
+        "id": 2,
+        "title": "subline",
+        "content": "Some Other Line"
+    },
+    {
+        "id": 3,
+        "title": "content",
+        "content": "Lorem Ipsum and Mel Gibson"
+    }
+]
